@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  padding: 30px;
+  margin: 0 auto;
+  width: 380px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+};
+
